@@ -1,7 +1,8 @@
 ## Hi there 👋
 My name is Cam! Currently studying to begin working in the cloud. Wish me luck! 
 
-Follow me on insta: @kingxnoel
+Follow me on socials: 1. insta: *@kingxnoel*
+                      2. facebook: *Cam Wilson*
 <!--
 **camnowil96/camnowil96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
